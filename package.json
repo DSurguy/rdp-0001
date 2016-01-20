@@ -1,0 +1,18 @@
+{
+  "name": "rdp-001",
+  "version": "0.0.1",
+  "description": "Reddit Daily Programming Challenge 1 https://www.reddit.com/r/dailyprogrammer/comments/pih8x/easy_challenge_1/",
+  "scripts": {
+    "easy": "NODE_PATH=. node easy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DSurguy/rdp-0001.git"
+  },
+  "author": "Surguy.Derek@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DSurguy/rdp-0001/issues"
+  },
+  "homepage": "https://github.com/DSurguy/rdp-0001#readme"
+}
